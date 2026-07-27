@@ -7,12 +7,17 @@ Full-stack разработчик · Челябинск
 
 ## Проекты
 
-**[dev-portfolio](https://github.com/wialux12/dev-portfolio)** — премиальный
-портфолио-сайт. Next.js 16, React 19, TypeScript, Tailwind CSS v4, GSAP.
+**Портфолио-сайт разработчика** — премиальный лендинг уровня Awwwards:
+дизайн-система, кейсы проектов, фирменный decode-эффект в hero.
+Next.js 16, React 19, TypeScript, Tailwind CSS v4, GSAP.
+[Код](https://github.com/wialux12/dev-portfolio) ·
+[Сайт](https://kirillspynu.duckdns.org)
 
-**[dom-galeeva](https://github.com/wialux12/dom-galeeva)** — сайт-приглашение
-с фирменной canvas-гирляндой (провисающая нить, твинкл, respects
-prefers-reduced-motion). Ванильный HTML/CSS/JS.
+**«Дом Галеева» — сайт-приглашение в бар** — статический сайт с фирменной
+canvas-гирляндой (провисающая нить, твинкл, respects prefers-reduced-motion).
+Ванильный HTML/CSS/JS.
+[Код](https://github.com/wialux12/dom-galeeva) ·
+[Сайт](https://gogaleeva.duckdns.org)
 
 ## Стек
 
